@@ -5,6 +5,9 @@
         "curso",
         "Fessor",
         "marca",
-        "modelo"
+        "modelo",
+        "teste",
+        "vcurso",
+        "vnome"
     ]
 }
