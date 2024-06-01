@@ -7,9 +7,11 @@
         "Fessor",
         "marca",
         "modelo",
+        "Pietro",
         "teste",
         "valores",
         "vcurso",
-        "vnome"
+        "vnome",
+        "vteste"
     ]
 }
