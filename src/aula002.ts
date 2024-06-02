@@ -1,7 +1,7 @@
-const nome = 'Cleverson';
-const curso = 'Typescript';
-const curso_ts = 'Fessor Bruno'
+const vnome = 'Cleverson';
+const vcurso = 'Typescript';
+const vcurso_ts = 'Fessor Bruno'
 
-console.log(nome)
-console.log(curso)
-console.log(curso_ts)
+console.log(vnome)
+console.log(vcurso)
+console.log(vcurso_ts)
