@@ -1,0 +1,10 @@
+"use strict";
+let vnome1;
+vnome1 = 'Cleverson';
+console.log(vnome1);
+let vnome2;
+vnome2 = null;
+console.log(vnome2);
+let vnome3 = vnome1;
+let vnum = vnome3;
+console.log(vnome3);
